@@ -13,3 +13,5 @@ print("Number of features: ", features.shape[1])
 print("Number of samples: ", features.shape[0]) 
 #see useful summary statistics for numeric features
 print(features.describe()) 
+
+print(labels.shape)
