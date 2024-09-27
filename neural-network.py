@@ -15,3 +15,4 @@ print("Number of samples: ", features.shape[0])
 print(features.describe()) 
 
 print(labels.shape)
+print(labels.describe())
